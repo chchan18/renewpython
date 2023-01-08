@@ -9,4 +9,7 @@ import math
 hi="hello there"
 name="ana"
 greet=hi+" " +name
-print(greet)
+silly=hi+(" "+name)*3
+x=1
+x_str=str(x)
+print(type(x_str))
