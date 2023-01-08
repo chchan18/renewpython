@@ -1,2 +1,2 @@
 import random
-print(random.randint(16,272))
+random.randint(16,272)
