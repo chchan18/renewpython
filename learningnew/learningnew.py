@@ -12,4 +12,3 @@ greet=hi+" " +name
 silly=hi+(" "+name)*3
 x=1
 x_str=str(x)
-print(type(x_str))
