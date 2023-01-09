@@ -13,4 +13,3 @@ silly=hi+(" "+name)*3
 x=1
 x_str=str(x)
 
-a=1
